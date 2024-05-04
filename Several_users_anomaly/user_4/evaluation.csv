@@ -1,0 +1,32 @@
+label,pair,lF,PF,F1,F2,S1,S2,,,,,,,,,,,,,,,,,,,,,,
+UIDABDC,"('', 'UIDABDC')",269,,N,,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDADBA,"('UIDABDC', 'UIDADBA')",151,75,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDADAB,"('UIDADBA', 'UIDADAB')",131,56,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDABCD,"('UIDADAB', 'UIDABCD')",18,12,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDABCC,"('UIDABCD', 'UIDABCC')",53,7,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDABCA,"('UIDABCC', 'UIDABCA')",16,9,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDABAC,"('UIDABCA', 'UIDABAC')",16,8,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDABAA,"('UIDABAC', 'UIDABAA')",17,8,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIBCDCC,"('UIDABAA', 'UIBCDCC')",25,8,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIBCCDD,"('UIBCDCC', 'UIBCCDD')",81,12,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIBCCDC,"('UIBCCDD', 'UIBCCDC')",95,29,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIBCCCD,"('UIBCCDC', 'UIBCCCD')",140,52,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDAAAB,"('UIBCCCD', 'UIDAAAB')",126,70,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIDAAAA,"('UIDAAAB', 'UIDAAAA')",101,54,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UICBBBB,"('UIDAAAA', 'UICBBBB')",184,51,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIADDDD,"('UICBBBB', 'UIADDDD')",259,131,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UICBBBB,"('UIADDDD', 'UICBBBB')",184,118,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+UIADDDD,"('UICBBBB', 'UIADDDD')",259,131,N,N,N,N,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+,,,,,,,,,,,label,UIDABDC,UIDADBA,UIDADAB,UIDABCD,UIDABCC,UIDABCA,UIDABAC,UIDABAA,UIBCDCC,UIBCCDD,UIBCCDC,UIBCCCD,UIDAAAB,UIDAAAA,UICBBBB,UIADDDD,UICBBBB,UIADDDD
+,,,,,,,,,,,pair,"('', 'UIDABDC')","('UIDABDC', 'UIDADBA')","('UIDADBA', 'UIDADAB')","('UIDADAB', 'UIDABCD')","('UIDABCD', 'UIDABCC')","('UIDABCC', 'UIDABCA')","('UIDABCA', 'UIDABAC')","('UIDABAC', 'UIDABAA')","('UIDABAA', 'UIBCDCC')","('UIBCDCC', 'UIBCCDD')","('UIBCCDD', 'UIBCCDC')","('UIBCCDC', 'UIBCCCD')","('UIBCCCD', 'UIDAAAB')","('UIDAAAB', 'UIDAAAA')","('UIDAAAA', 'UICBBBB')","('UICBBBB', 'UIADDDD')","('UIADDDD', 'UICBBBB')","('UICBBBB', 'UIADDDD')"
+,,,,,,,,,,,lF,269,151,131,18,53,16,16,17,25,81,95,140,126,101,184,259,184,259
+,,,,,,,,,,,PF,,75,56,12,7,9,8,8,8,12,29,52,70,54,51,131,118,131
+,,,,,,,,,,,F1,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+,,,,,,,,,,,F2,,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+,,,,,,,,,,,S1,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+,,,,,,,,,,,S2,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N

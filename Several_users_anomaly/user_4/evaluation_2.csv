@@ -1,0 +1,19 @@
+pair,F2,S1,S2,lF,PF
+"('', 'UIDABDC')",,,,,
+"('UIDABDC', 'UIDADBA')",N,,,,75
+"('UIDADBA', 'UIDADAB')",N,,,,56
+"('UIDADAB', 'UIDABCD')",N,,,,12
+"('UIDABCD', 'UIDABCC')",N,,,,7
+"('UIDABCC', 'UIDABCA')",N,,,,9
+"('UIDABCA', 'UIDABAC')",N,,,,8
+"('UIDABAC', 'UIDABAA')",N,,,,8
+"('UIDABAA', 'UIBCDCC')",N,,,,8
+"('UIBCDCC', 'UIBCCDD')",N,,,,12
+"('UIBCCDD', 'UIBCCDC')",N,,,,29
+"('UIBCCDC', 'UIBCCCD')",N,,,,52
+"('UIBCCCD', 'UIDAAAB')",N,,,,70
+"('UIDAAAB', 'UIDAAAA')",N,,,,54
+"('UIDAAAA', 'UICBBBB')",N,,,,51
+"('UICBBBB', 'UIADDDD')",N,,,,131
+"('UIADDDD', 'UICBBBB')",N,,,,118
+"('UICBBBB', 'UIADDDD')",N,,,,131

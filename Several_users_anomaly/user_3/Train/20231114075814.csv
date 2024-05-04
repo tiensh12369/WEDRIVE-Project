@@ -1,0 +1,3 @@
+accuracy,id,lat,lng,speed,time,type,state,stepCount,beaconData
+18.7,0,37.537891,126.648504,0.00,1699916294000,START,AUTOMOBILE,0,
+18.7,0,37.537891,126.648504,0.00,1699916294746,END,,0,

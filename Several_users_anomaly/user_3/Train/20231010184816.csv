@@ -1,0 +1,3 @@
+accuracy,id,lat,lng,speed,time,type,state,stepCount,beaconData
+2038.3,0,37.531260,126.640966,0.00,1696923695000,START,STATION,0,
+2038.3,0,37.531260,126.640966,0.00,1696931296629,END,,0,
