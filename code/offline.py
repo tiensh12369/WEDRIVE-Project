@@ -45,7 +45,7 @@ def get_grid_label(lat, lng, final_grids):
     return None
 
 # Approximate border coordinates of South Korea
-south_korea_bounds = [34, 125.5, 39, 130]
+south_korea_bounds = [34, 125.5, 39, 130] #지도 크기
  
 # Create a map 
 m = folium.Map(location=[(south_korea_bounds[0] + south_korea_bounds[2]) / 2,
@@ -66,7 +66,7 @@ for filename in os.listdir(directory):
         path_points.extend(points)
  
         # draw a line on the map
-        folium.PolyLine(points, color='red', weight=2.5, opacity=1).add_to(m)
+        folium.PolyLine(points, color='red', weight=2.5, opacity=1).add_to(m) #경로
 
 # Initialize grid queue
 grid_queue = []
